@@ -2,7 +2,7 @@
 
 
 ## Description
-description
+This application is an employee tracker. You can view the employees that you have, roles, and departments. You can also add roles and departments as well as employees. Employees can have their roles updated.
 
 
 ## Table Of Contents
